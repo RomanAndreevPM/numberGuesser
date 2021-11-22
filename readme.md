@@ -1,3 +1,13 @@
-# Heading1
+# Hello Markdown in VS Code
 
-## Heading2
+This is a simple introduction to compiling Markdown in VS Code.
+
+Things you'll need:
+
+* [Node.js](https://nodejs.org)
+* [markdown-it](https://www.npmjs.com/package/markdown-it)
+* [tasks.json](/docs/editor/tasks)
+
+## Section Title
+
+> This block quote is here for your information
